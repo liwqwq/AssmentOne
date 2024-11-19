@@ -1,0 +1,7 @@
+Attributes: ID, name, and description are used to store basic information of health professionals.
+Constructor:
+The default constructor HealthProfession() initializes all properties to their default values.
+The constructor HealthProfessional (int id, String name, String description) with parameters can initialize these properties to specified values.
+Method: printHealthProfessionalDetailed() is used to print basic information of health professionals.
+2. GeneralPractitioner Class
+The GeneralPractitioner class is a subclass of the HealthProfessional class that represents an ordinary general practitioner. This class not only inherits the properties and methods of its parent class, but also adds a new property called specialty.
