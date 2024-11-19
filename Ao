@@ -1,0 +1,6 @@
+Attribute:
+PatientName, PatientMobile, timeSlot are used to store the patient's name, contact information, and appointment time.
+Doctor is a HealthProfessional type object, representing the health professionals responsible for patients.
+Method: printAppointDetailed() is used to print detailed information about appointments, including patient and doctor related information.
+5. Main Program Assign One
+The Assign One class is the entry point to the program, which includes the logic for creating health professionals, scheduling appointments, and printing detailed information.
