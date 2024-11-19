@@ -1,0 +1,5 @@
+Inheritance: GeneralPractitioner inherits the id, name, and description properties of HealthProfessional, as well as the printHealthProfessionalDetailes() method. The constructor of the parent class can be called through super().
+New attribute: specialty refers to the doctor's professional field, such as "General Practice".
+Method: printGeneralPractitionerDetailed() is used to print detailed information about doctors, including basic information inherited from the parent class and their professional field.
+3. Specialist category
+Similar to the GeneralPractitioner class, the Specialist class also inherits from HealthProfessional, but focuses on representing an expert doctor. The Specialist class has added a new attribute called specializeArea.
