@@ -1,0 +1,5 @@
+Inheritance: Specialist also inherits the properties and methods of the HealthProfessional class.
+New attribute: specializeArea represents the specific professional field of the doctor, such as neurosurgery, endocrinology, etc.
+Method: printSpecialistDetailes() is used to print detailed information about experts.
+4. Appointment category
+The Appointment class is used to represent an appointment between a patient and a health professional. This category includes the patient's basic information (such as name, phone number), appointment time, and the doctor responsible for the patient.
